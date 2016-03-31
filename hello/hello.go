@@ -4,9 +4,9 @@ import "fmt"
 
 //this is a comment
 
-func main(){
-    
-    fmt.Println("Hello, Work.\n")
+func main() {
+
+	fmt.Println("Hello, Work.\n")
 
 }
 
